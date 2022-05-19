@@ -5,7 +5,7 @@ public class apiUrl3 {
 	
 	public apiUrl3(String input) {
 		// Declares variables needed
-		String apiKey = "3a58f71b2fac2ca5aa173a9fdffdccc9";
+		String apiKey = "";
 		String inputWithoutSpace = "";
 		
 		// If there is a common special character, it is replaced by the ASCII value of the character
