@@ -10,7 +10,7 @@ public class apiURL {
 	public apiURL(Scanner input) {
 		// Declares variables needed
 		String temp;
-		String apiKey = "449f58fd2c7ad744d1c871c27771832b";
+		String apiKey = "";
 		String cityName = new String(); 
 		int zipCode;
 		
