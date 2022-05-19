@@ -1,8 +1,8 @@
-#Project 1 Documentation
+#Project 1 Documentation#
 
-###Bot Name: “project1Bot”
+###Bot Name: “project1Bot”###
 
-###Channel Name Used: “harrisonProject1”
+###Channel Name Used: “harrisonProject1”###
 
 **How to Compile:**
 The main method is the MyBotMain.java file. Import the java files, as well as configure a build path to include the two .jar files in the zip file (gson and pircbot). After doing this, you can compile. 
